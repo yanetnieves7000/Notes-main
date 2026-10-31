@@ -12,3 +12,14 @@ h3 {
 body {
  font-family: "Times New Roman", Georgia, serif;
 }
+a {
+    var(--primary) text-decoration: ;
+} 
+a:hover {
+    color:#f59e0b text-decoration:underline
+} 
+a:visited 
+{
+    color:black
+}
+/*chapter 8*/
