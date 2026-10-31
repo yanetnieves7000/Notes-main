@@ -1,0 +1,14 @@
+h1 { 
+    color:#2563eb
+    font-size 2.5em;
+}
+h2 {
+    color:#1e40af font weight 600px;
+ }
+h3 { 
+    color:#475569 font-weight 600
+}
+/* Sets the font for the entire webpage */
+body {
+ font-family: "Times New Roman", Georgia, serif;
+}
