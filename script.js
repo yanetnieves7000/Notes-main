@@ -1,3 +1,3 @@
 let name = "Your name";
-let greeting = "Hello, " + name + "!";
-console.log('Welcome to ' + name + "'s portfolio!");
+let greeting = `Hello, ${name}`; // Template literal
+console.log(`Welcome to ${name}'s portfolio!`);
